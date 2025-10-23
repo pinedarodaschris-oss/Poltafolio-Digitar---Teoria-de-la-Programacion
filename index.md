@@ -1,14 +1,13 @@
 # 📘 Teoría de la Programación  
 ## 💻 Portafolio Digital de Aprendizaje
 
-Este repositorio reúne mis actividades, apuntes y proyectos desarrollados a lo largo de la asignatura **Teoría de la Programación**.
-
 ---
 
 ### 📚 Unidades
 
 #### 🧩 Unidad 1 — Fundamentos de la Programación
 > Conceptos esenciales, paradigmas y estructuras básicas.
+[Ir a la Unidad 1](./unidad1.md)
 
 #### 🔧 Unidad 2 — Herramientas y Representación de Algoritmos
 > Diagramas de flujo, pseudocódigo y estructura lógica.
