@@ -7,7 +7,7 @@
 
 #### 🧩 Unidad 1 — Fundamentos de la Programación
 > Conceptos esenciales, paradigmas y estructuras básicas.
-[Ir a la Unidad 1](./unidad1.md)
+[Ir a la Unidad 1](./Unidad1.md)
 
 #### 🔧 Unidad 2 — Herramientas y Representación de Algoritmos
 > Diagramas de flujo, pseudocódigo y estructura lógica.
